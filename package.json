@@ -1,14 +1,15 @@
 {
-  "name": "@spookyswap/core",
+  "name": "andaswap/core",
   "description": "🎛 Core contracts for the spookyswap protocol",
   "version": "1.1.0",
-  "homepage": "https://spookyswap.finance",
+  "homepage": "https://andaswap.finance",
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SpookySwap/spookyswap-core"
+     "url": "https://github.com/ChefLeBit/AndaSwap-Core"
   },
-  "keywords": [
+  "keywords":
+    "andaswap",[
     "spookyswap",
     "ethereum",
     "ftm",
